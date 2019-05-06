@@ -1,4 +1,4 @@
-# vue-virtual-treeview
+# vue-virtual-scroll-treeview
 
 ## Project setup
 ```
