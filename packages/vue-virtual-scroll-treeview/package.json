@@ -1,7 +1,6 @@
 {
   "name": "vue-virtual-scroll-treeview",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -38,5 +37,13 @@
       "vue-cli-service lint",
       "git add"
     ]
-  }
+  },
+  "files": [
+    "dist/*",
+    "src/*",
+    "public/*",
+    "*.json",
+    "*.js"
+  ],
+  "license": "MIT"
 }
